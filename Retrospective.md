@@ -1,5 +1,3 @@
-[TOC]
-
 ## General
 
 ### Prime Directive
